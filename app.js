@@ -30,3 +30,5 @@ app.use((err, req, res, next) => {
 module.exports = app;
 
 // ! nClNIxmkyO1HvM5e 
+// PORT=3000
+// DB_HOST=mongodb+srv://Vladyslav:nClNIxmkyO1HvM5e@cluster0.oytqrp5.mongodb.net/users?retryWrites=true&w=majority&appName=Cluster0
