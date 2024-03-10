@@ -12,7 +12,7 @@ const logout = require("./authLogout")
 const updateSubscription = require("./authSubscription")
 const updateAvatar = require("./authUpdateAvatar")
 const verifeEmail = require("./authVerifeEmail")
-const resendVerifyEmail = require("./authResendVerifyEmail")
+const resendVerifyEmail = require("./authVerifeEmail")
 
 module.exports = {
     add: ctrlContainer(add),
