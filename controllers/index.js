@@ -1,4 +1,4 @@
-const { ctrlContainer } = require("../../helpers");
+const { ctrlContainer } = require("../helpers");
 const add = require("./add");
 const getAll = require("./getAll")
 const getById = require("./getById")
